@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jxnblk/basscss-ui-utility-disclosure-states/issues"
   },
-  "homepage": "https://github.com/jxnblk/basscss-ui-utility-disclosure-states"
+  "homepage": "https://github.com/jxnblk/basscss-ui-utility-disclosure-states",
+  "basscss": {
+    "optional": true
+  }
 }
