@@ -12,6 +12,6 @@ Toggle the visibility of child elements. This is useful for things like dropdown
 
 ```html
 <div class="is-active">
-  <div class="disclosure-show">Hidden</div>
+  <div class="disclosure-show">Visible</div>
 </div>
 ```
