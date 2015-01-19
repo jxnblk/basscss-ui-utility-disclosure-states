@@ -1,5 +1,7 @@
 # Basscss UI Utility Disclosure States
 
+**DEPRECATED**
+
 Disclosure state utilities module for Basscss - http://basscss.com
 
 Toggle the visibility of child elements. This is useful for things like dropdown menus that are controlled with Javascript.
